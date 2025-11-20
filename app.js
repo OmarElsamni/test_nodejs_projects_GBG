@@ -191,8 +191,8 @@ const html = `
         </header>
         
         <section class="hero" id="home">
-            <h1>Welcome to Elastic Beanstalk!</h1>
-            <p>Deploy and scale web applications with ease. Experience the power of AWS Elastic Beanstalk with a beautiful, modern interface.</p>
+            <h1>Welcome to App Runner!</h1>
+            <p>Deploy and scale web applications with ease. Experience the power of AWS App Runner with a beautiful, modern interface.</p>
             <a href="#features" class="btn">Get Started</a>
         </section>
         
@@ -217,7 +217,7 @@ const html = `
         </section>
         
         <footer>
-            <p>&copy; 2024 Elastic Beanstalk Application. Powered by AWS.</p>
+            <p>&copy; 2024 App Runner Application. Powered by AWS.</p>
         </footer>
     </div>
 </body>
