@@ -206,7 +206,7 @@ const html = `
             <div class="feature-card">
                 <div class="feature-icon">📈</div>
                 <h3>Auto Scaling</h3>
-                <p>Scale your application automatically based on demand. Handle traffic spikes without manual intervention.</p>
+                <p>Scale your application automatically based on demand, Handle traffic spikes without manual intervention.</p>
             </div>
             
             <div class="feature-card">
