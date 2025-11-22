@@ -218,7 +218,7 @@ const html = `
         
         <footer>
             <p>&copy; 2024 App Runner Application. Powered by AWS.</p>
-            <p>Contributors : Omar Elsamni , Ali Abdelazim , Patol Abdullah , Mennah Ahmed</p>
+            <p>Contributors : patol, Omar Elsamni , Ali Abdelazim , Patol Abdullah , Mennah Ahmed</p>
         </footer>
     </div>
 </body>
